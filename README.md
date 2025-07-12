@@ -10,11 +10,12 @@ Check out my [AI chat playground](https://ai-chat.roonnapai.dev) where I test di
 
 **AI & Development Tools**
 - [safe-commander-mcp](https://github.com/nonameb3/safe-commander-mcp) - Secure MCP server for development workflows
-- [ai-chat-interface](https://github.com/nonameb3/ai-interface) - Ai chat website with RAG system about my skill
+- [ai-chat-interface](https://github.com/nonameb3/ai-interface) - A ai chat website with RAG system about my skill
 
 **Blockchain & Web3**
+- [zk-proof-demo](https://github.com/nonameb3/zk-proof-demo) - A website for interact with Zero-knowledge proof and validate in blockchain
 - [zk-anonymous-data](https://github.com/nonameb3/zk-anonymous-data) - Zero-knowledge proof with custom circuits
-- [dapp-token-farm](https://github.com/nonameb3/dapp-token-farm) - DeFi yield farming protocol  
+- [dapp-token-farm](https://github.com/nonameb3/dapp-token-farm) - A website for DeFi yield farming protocol  
 - [blockchain](https://github.com/nonameb3/s_blockchain) - Simple on create blockchain
 
 **Web Applications**
