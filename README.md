@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Waraphon! 👋
 
-<!--
-**nonameb3/nonameb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior engineer from Bangkok who loves building things that matter. Currently architecting blockchain systems at TokenX while exploring how AI can make development more delightful.
 
-Here are some ideas to get you started:
+You'll find me experimenting with LLMs and building tools that make coding more fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [AI chat playground](https://ai-chat.roonnapai.dev) where I test different AI integrations.
+
+## Projects
+
+**AI & Development Tools**
+- [safe-commander-mcp](https://github.com/nonameb3/safe-commander-mcp) - Secure MCP server for development workflows
+- [ai-chat-interface](https://github.com/nonameb3/ai-interface) - Ai chat website with RAG system about my skill
+
+**Blockchain & Web3**
+- [zk-anonymous-data](https://github.com/nonameb3/zk-anonymous-data) - Zero-knowledge proof with custom circuits
+- [dapp-token-farm](https://github.com/nonameb3/dapp-token-farm) - DeFi yield farming protocol  
+- [blockchain](https://github.com/nonameb3/s_blockchain) - Simple on create blockchain
+
+**Web Applications**
+- [New-York-Times](https://github.com/nonameb3/New-York-Times) - News aggregator using NYT API
