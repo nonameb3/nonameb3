@@ -15,7 +15,7 @@ Check out my [AI chat playground](https://ai-chat.roonnapai.dev) where I test di
 **Blockchain & Web3**
 - [zk-proof-demo](https://github.com/nonameb3/zk-proof-demo) - A website for interact with Zero-knowledge proof and validate in blockchain
 - [zk-anonymous-data](https://github.com/nonameb3/zk-anonymous-data) - Zero-knowledge proof with custom circuits
-- [dapp-token-farm](https://github.com/nonameb3/dapp-token-farm) - A website for DeFi yield farming protocol  
+- [dapp-demo](https://github.com/nonameb3/dapp-demo) - A website for DeFi yield farming protocol  
 - [blockchain](https://github.com/nonameb3/s_blockchain) - Simple on create blockchain
 
 **Web Applications**
